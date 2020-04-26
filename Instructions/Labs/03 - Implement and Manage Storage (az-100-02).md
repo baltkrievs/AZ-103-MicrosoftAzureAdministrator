@@ -386,7 +386,7 @@ The main tasks for this exercise are as follows:
 
 1. Close the **Cloud Shell** prompt at the bottom of the portal.
    
- > **Note**: The command command executes asynchronously (as determined by the --nowait parameter), so it might take a few minutes before all of the resource groups are removed.
+ > **Note**: The command executes asynchronously (as determined by the --nowait parameter), so it might take a few minutes before all of the resource groups are removed.
 
  > **Note**: You might have to rerun the command if the resources are not deleted after the first run.
 
